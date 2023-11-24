@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/MoviesManagement.Api/bin/Debug/net6.0
+/MoviesManagement.Api/obj
+/MoviesManagement.Data/bin/Debug/net6.0
+/MoviesManagement.Data/obj
+/MoviesManagement.Domain/bin/Debug/net6.0
+/MoviesManagement.Domain/obj
+/MoviesManagement.Repository/obj
+/MoviesManagement.Services/bin/Debug/net6.0
+/MoviesManagement.Services/obj
